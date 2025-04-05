@@ -1,5 +1,5 @@
 function goToDownloads() {
-    location.href = "https://ZenBrowser.github.io/downloads"
+    location.href = "https://github.com/PartehDev/ZenBrowser/releases/"
 }
 
 function goToContact() {
